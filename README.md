@@ -41,22 +41,22 @@
 </p>
 
 ## Features
-* Chat Messages Eraser
-* Post Eraser
-* FriendsList Eraser
-* Photo Album Eraser
-* Accept Delete Friends Request
-* Mass Join Group By Search Name
-* Update Status Random Caption
-* Mass Chat To Friends-list
-* Spam Chat Target
-* Mass Leave Group
-* Mass React
-* Mass Comments
-* Spam Comments In One Post
-* Mass Posting Groups
-* Cancel Request Sent
-* Unblock All User
+* Xoá tất cả tin nhắn message
+* Xoá bài viết
+* Xoá tất cả danh sách bạn bè
+* Xoá album ảnh
+* Chấp nhận yêu cầu xoá bạn bè
+* Tham gia hàng loạt nhóm theo tên tìm kiếm
+* Cập nhật trạng thái chú thích ngẫu nhiên
+* Trò chuyện hàng loạt với danh sách bạn bè
+* Spam mục tiêu trò chuyện
+* Rời nhóm hàng loạt
+* Tương tác hàng loạt
+* Bình luận hàng loạt
+* Spam bình luật trong 1 bài viết
+* Đăng bài hàng loạt trên các nhóm
+* Hủy yêu cầu đã gửi
+* Bỏ chặn tất cả người dùng
 
 ## Version
 ### v1.0 :
